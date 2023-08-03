@@ -5,7 +5,6 @@ Created on Thu Aug  3 22:43:34 2023
 @author: zahid
 """
 
-#Step 4
 
 import random
 
